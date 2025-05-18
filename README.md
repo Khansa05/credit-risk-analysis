@@ -10,12 +10,18 @@ To identify and flag high-risk customers for financial institutions and reduce d
 
 ## Project Structure
 
-credit_risk_project/
+credit_risk_project
+
 ├── CreditRisk.ipynb 
+
 ├── requirements.txt 
-├── models/
-│ └── credit_risk_model.pkl # Trained model (saved)
-└── report/
+
+├── model
+
+│ └── credit_risk_model.pkl 
+
+└── report
+
 └── Credit_Risk_Analysis_Report.docx
 
 ---
